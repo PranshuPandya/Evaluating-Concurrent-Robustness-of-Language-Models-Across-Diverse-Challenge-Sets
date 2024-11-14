@@ -42,11 +42,24 @@ Our experiments demonstrate:
 If you find this work helpful, please cite our paper:
 
 ```bibtex
-@inproceedings{gupta2024evaluating,
-  title={Evaluating Concurrent Robustness of Language Models Across Diverse Challenge Sets},
-  author={Gupta, Vatsal and Pandya, Pranshu and Kataria, Tushar and Gupta, Vivek and Roth, Dan},
-  booktitle={Proceedings of the Conference on Empirical Methods in Natural Language Processing},
-  year={2024}
+@inproceedings{gupta-etal-2024-evaluating-concurrent,
+    title = "Evaluating Concurrent Robustness of Language Models Across Diverse Challenge Sets",
+    author = "Gupta, Vatsal  and
+      Pandya, Pranshu  and
+      Kataria, Tushar  and
+      Gupta, Vivek  and
+      Roth, Dan",
+    editor = "Al-Onaizan, Yaser  and
+      Bansal, Mohit  and
+      Chen, Yun-Nung",
+    booktitle = "Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing",
+    month = nov,
+    year = "2024",
+    address = "Miami, Florida, USA",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2024.emnlp-main.1237",
+    pages = "22162--22184",
+    abstract = "Language models, characterized by their black-box nature, often hallucinate and display sensitivity to input perturbations, causing concerns about trust. To enhance trust, it is imperative to gain a comprehensive understanding of the model{'}s failure modes and develop effective strategies to improve their performance. In this study, we introduce a methodology designed to examine how input perturbations affect language models across various scales, including pre-trained models and large language models (LLMs). Utilizing fine-tuning, we enhance the model{'}s robustness to input perturbations. Additionally, we investigate whether exposure to one perturbation enhances or diminishes the model{'}s performance with respect to other perturbations. To address robustness against multiple perturbations, we present three distinct fine-tuning strategies. Furthermore, we broaden the scope of our methodology to encompass large language models (LLMs) by leveraging a chain of thought (CoT) prompting approach augmented with exemplars. We employ the Tabular-NLI task to showcase how our proposed strategies adeptly train a robust model, enabling it to address diverse perturbations while maintaining accuracy on the original dataset.",
 }
 ```
 
