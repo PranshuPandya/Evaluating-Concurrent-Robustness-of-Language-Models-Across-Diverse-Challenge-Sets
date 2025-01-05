@@ -1,0 +1,23 @@
+Premise:  I'm So Sick was chronology on Do You Hear What I Hear? (2005), I'm So Sick (2006), Fully Alive (2006).  The album of I'm So Sick is Flyleaf.  I'm So Sick was released on August 29, 2006.  I'm So Sick was recorded on May 2005 at Seattle, Washington. 
+Hypothesis: I'm So Sick was recorded in in 2365.
+To make an inference about the hypothesis, we need to either know directly or deduce when was "I'm So Sick" was recorded. We can see from the premise that "I'm So Sick" was recorded in 2005, where as in the hypothesis it mentions the year 2365. So the hypothesis contradict the premise and thus the answer for this should be No.
+
+Premise:    Kazakh Khanate is a country.  The common languages of Kazakh Khanate is Kazakh language.  The khan of Kazakh Khanate are Janibek Khan Kerei Khan  (first) (1465-1480), Kenesary Khan (last) (1841-1847).  The established  was on 1465.   
+Hypothesis: Kazakh Khanate only practiced Islam.
+To make an inference about the hypothesis, we need to either know directly or deduce which religions are practiced in Kazakh Khanate (country). The premise gives us no information of the same and it isn't very common knowledge either. Hence we are unable to make an inference of the hypothesis. The answer is Neutral.
+
+Premise:    The federal and islamic republic of comoros was on 24 May 1978.  The protectorate of the comoros was on 6 September 1887.  The overseas territory was on 27 October 1946.  The state of comoros was on 22 December 1961.   
+Hypothesis: Union of the Comoros was once the State of Comoros, and before that the Protectorate of the Comoros.
+To make an inference about the hypothesis, we need to either know directly or deduce the nature of Union of the Comoros and what it was called through time along with the timeline. The premise states that it was once the Protectorate of Comoros from 6 September 1887, it was then overseas territory from 27 October 1946, then it was the State of Comoros from 22 December 1961. It was Finally the federal and Islamic republic of Comoros from 24 May 1978. Hence the hypothesis is indeed true that the Union of Comoros was earlier the State of Comoros and the Protectorate of the Comoros before that. The answer is yes.
+
+Premise:  Hoboken, New Jersey is a city.  The type of Hoboken, New Jersey is Faulkner Act (mayor–council).  The body of Hoboken, New Jersey is City Council.  The mayor of Hoboken, New Jersey is Ravinder Bhalla (term ends December 31, 2021). 
+Hypothesis: Hoboken, New Jersey has five main leaders of the town.
+To make an inference about the hypothesis, we need to either know directly or deduce we need to find how many leaders does Hoboken, New Jersey has. In the premise, there is no information about number of main leaders in the Hoboken, New Jersey. Hence we are unable to make an inference of the hypothesis. The answer is Neutral.
+
+Premise:    Jerusalem is a city.  The jewish of Jerusalem is 64%.  The time zone of Jerusalem is UTC+02:00 (IST, PST).  The area code of Jerusalem is +972-2.   
+Hypothesis: Christians comprise a big part of the population of Jerusalem.
+To make an inference about the hypothesis, we need to either know directly or deduce the population division in Jerusalem. As stated in the premise, Jewish (religion) constitutes 64 percent of the population in Jerusalem. Hence the hypothesis must be false as the Christians(religion) can't possibly constitute a big part of the population, as the majority is taken up by the Jewish. The answer is No.
+
+Premise:  The official languages of Hong Kong Special Administrative Region of the People's Republic of China are Chinese, English.  The regional language of Hong Kong Special Administrative Region of the People's Republic of China is Cantonese.  The official scripts of Hong Kong Special Administrative Region of the People's Republic of China are Traditional Chinese, English alphabet.  The government of Hong Kong Special Administrative Region of the People's Republic of China is Devolved executive-led system within a socialist republic. 
+Hypothesis: The Hong Kong Special Administrative Region of the People's Republic of China grants official status to more than one language.
+To make an inference about the hypothesis, we need to either know directly or deduce how many languages are official in Hong Kong Special Administrative Region of the People's Republic of China. We can see in the premise that There are two official languages: English and Chinese. As the hypothesis says "more than one". As two is more than one, the answer is Yes.
