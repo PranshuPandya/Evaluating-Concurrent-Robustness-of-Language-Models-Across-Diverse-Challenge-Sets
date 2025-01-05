@@ -1,0 +1,27 @@
+Premise:    Kazakh Khanate is a country.  The common languages of Kazakh Khanate is Kazakh language.  The khan of Kazakh Khanate are Janibek Khan Kerei Khan  (first) (1465-1480), Kenesary Khan (last) (1841-1847).  The established  was on 1465.   
+Hypothesis: Kazakh Khanate only practiced Islam.
+To make an inference about the hypothesis, we need to either know directly or deduce which religions are practiced in Kazakh Khanate (country). The premise gives us no information of the same and it isn't very common knowledge either. Hence we are unable to make an inference of the hypothesis. The answer is Neutral.
+
+Premise:  Jean Joseph Etienne Lenoir was born on 12 January 1822 ( 1822-01-12 )   Mussy-la-Ville, Luxembourg (now part of Belgium).  Jean Joseph Etienne Lenoir died on 4 August 1900 (1900-08-04)  (aged 78)  La Varenne-Sainte-Hilaire.  The citizenship of Jean Joseph Etienne Lenoir is Belgian, French.  Jean Joseph Etienne Lenoir was known for Lenoir cycle , internal combustion engine , Electro plating. 
+Hypothesis: Jean Joseph Ætienne Lenoir was born in French Polynesia.
+To make an inference, we need to either directly know or deduce whether Jean Joseph Etienne Lenoir was born in Germany. The premise clearly states that Jean Joseph Etienne Lenoir was born in Luxembourg which is now a part of Belgium. The hypothesis is hence clearly false. Answer is No.
+
+Premise:  I and the Village is a painting.  The artist of I and the Village is Marc Chagall.  The medium of I and the Village is Oil on canvas.  The location of I and the Village is Museum of Modern Art, NY.  
+Hypothesis: The museum in which this painting is hung is located in Lawrence.
+To make an inference, we need to either directly know or deduce where the painting which is being talked about in the premise is hung. The premise clearly states that the location is the museum of Modern Art, NY (New York which can be inferred from common external knowledge). The hypothesis is hence clearly false. Answer is No.
+
+Premise:    The federal and islamic republic of comoros was on 24 May 1978.  The protectorate of the comoros was on 6 September 1887.  The overseas territory was on 27 October 1946.  The state of comoros was on 22 December 1961.   
+Hypothesis: Union of the Comoros was once the State of Comoros, and before that the Protectorate of the Comoros.
+To make an inference about the hypothesis, we need to either know directly or deduce the nature of Union of the Comoros and what it was called through time along with the timeline. The premise states that it was once the Protectorate of Comoros from 6 September 1887, it was then overseas territory from 27 October 1946, then it was the State of Comoros from 22 December 1961. It was Finally the federal and Islamic republic of Comoros from 24 May 1978. Hence the hypothesis is indeed true that the Union of Comoros was earlier the State of Comoros and the Protectorate of the Comoros before that. The answer is yes.
+
+Premise:  The in office of Ignacy Moscicki was on 4 June 1926 - 30 September 1939.  The prime minister of Ignacy Moscicki are Kazimierz Bartel, Jozef Pilsudski, Kazimierz Bartel, Kazimierz Switalski, Kazimierz Bartel, Walery Slawek, Jozef Pilsudski, Walery Slawek, Aleksander Prystor, Janusz Jedrzejewicz, Leon Kozlowski, Walery Slawek, Marian Zyndram-Koscialkowski, Felicjan Slawoj Skladkowski.  The preceded by of Ignacy Moscicki is Stanis;aw Wojciechowski.  The succeeded by of Ignacy Moscicki is Wladyslaw Raczkiewicz (President of the Polish Republic in Exile).  
+Hypothesis: Ignacy Mo_cicki led Canada for over 13 years.
+To make an inference, we need to either directly know or deduce whether Ignacy Moscicki led Canada and if so then for how long. The premise states that Ignacy Moscicki was succeeded by Wladyslaw Raczkiewicz (President of the Polish Republic in Exile). We can hence infer that Ignacy Moscicki led Poland and not Canada. The hypothesis is hence clearly false. Answer is No.
+
+Premise:    Jerusalem is a city.  The jewish of Jerusalem is 64%.  The time zone of Jerusalem is UTC+02:00 (IST, PST).  The area code of Jerusalem is +972-2.   
+Hypothesis: Christians comprise a big part of the population of Jerusalem.
+To make an inference about the hypothesis, we need to either know directly or deduce the population division in Jerusalem. As stated in the premise, Jewish (religion) constitutes 64 percent of the population in Jerusalem. Hence the hypothesis must be false as the Christians(religion) can't possibly constitute a big part of the population, as the majority is taken up by the Jewish. The answer is No.
+
+Premise:  The alma mater of Bruce Lee is University of Washington.  Bruce Lee was born as Lee Jun-fan November 27, 1940  San Francisco, California, U.S..  Bruce Lee died on July 20, 1973 (1973-07-20)  (aged 32)  Kowloon Tong, British Hong Kong.  The resting place of Bruce Lee is Lake View Cemetery, Seattle, U.S.. 
+Hypothesis: Bruce Lee lived in Jackson at the time of his death.
+To make an inference, we need to either directly know or deduce where Bruce Lee lived at the time of his death. Although the premise mentions that he died at Kowloon Tong, British Hong Kong and that his resting place (burial) is at Lake View Cemetery in the United States (US), it makes no mention of his place of living during his death. We can't make a clear inference. Answer is Neutral.
